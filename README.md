@@ -2,7 +2,8 @@
 Node Js - Web Scrapper for train tickets
 
 ## Requirement
-Node Js
+Node Js, fs and cheerio librairies
+To install librairies execute this commands : 
 ```
 npm i -g fs
 npm i -g cheerio
